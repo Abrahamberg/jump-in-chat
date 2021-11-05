@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sWwz13+U/Oj1mMy9w++JSZuEntjuIzh9GsIvU37qUffH4JlftddxlXQpcIYYbueGv5PPYGla/ab8nbxRlQFO7A==",
+  "dgSpecHash": "teCOzkqW/ikPx3iPSg2Y+v3ZTWyUTCZvSou+FryGP3NxqW3umHwnkKoruVN79DHFOvwg3WrGVnL1xv+R+LLaYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hosi\\Desktop\\signalRTest\\SignalRChat\\SignalRChat.csproj",
+  "projectFilePath": "C:\\projects\\jump-in-chat\\SignalRChat.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

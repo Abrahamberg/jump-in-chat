@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hosi\\Desktop\\signalRTest\\SignalRChat\\SignalRChat.csproj",
+      "projectUniqueName": "C:\\projects\\jump-in-chat\\SignalRChat.csproj",
       "projectName": "SignalRChat",
-      "projectPath": "C:\\Users\\hosi\\Desktop\\signalRTest\\SignalRChat\\SignalRChat.csproj",
+      "projectPath": "C:\\projects\\jump-in-chat\\SignalRChat.csproj",
       "packagesPath": "C:\\Users\\hosi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hosi\\Desktop\\signalRTest\\SignalRChat\\obj\\",
+      "outputPath": "C:\\projects\\jump-in-chat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hosi\\AppData\\Roaming\\NuGet\\NuGet.Config",
